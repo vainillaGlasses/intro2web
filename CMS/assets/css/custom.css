@@ -1,0 +1,166 @@
+/* Add here all your css styles */
+.document-download{
+    margin-left: 40%;
+    margin-bottom: 10px;
+}
+.myLogoHeader{
+    height: 40px;
+}
+/* Possition for evaluation button
+-----------------------------------*/
+.evaluation-possition{
+    margin-left: 60%;
+    margin-top:  -90px;
+}
+
+/* imagen rounded on about
+----------------------------------*/
+/*Full Width*/
+.full-width {
+	width: 70%;
+}
+
+.myRound{
+    border-radius: 100%;
+}
+
+
+/*Illustration v4
+------------------------------------*/
+.illustration-v4 .thumb-product {
+	padding: 10px;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+
+.illustration-v4 .thumb-product:hover {
+	box-shadow: 0 0 3px #dedede;
+}
+
+.illustration-v4 .heading h2 {
+	font-size: 18px;
+}
+
+.illustration-v4 .heading h2:before,
+.illustration-v4 .heading h2:after {
+  	width: 50%;
+}
+
+.illustration-v4 img.thumb-product-img {
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin-right: 25px;
+}
+
+.illustration-v4 .thumb-product-in {
+	overflow: hidden;
+	margin-top: 15px;
+}
+
+.illustration-v4 .thumb-product-in h4 {
+	margin: 0 0 2px;
+}
+
+.illustration-v4 .thumb-product-in h4 a {
+	color: #687074;
+	font-size: 18px;
+}
+
+.illustration-v4 .thumb-product-in h4 a:hover {
+	color: #18ba9b;
+}
+
+.illustration-v4 .thumb-product-in span {
+	display: block;
+}
+
+.illustration-v4 span.thumb-product-type {
+	color: #999;
+	font-size: 14px;
+}
+
+.illustration-v4 .thumb-product-price {
+	color: #687074;
+	font-size: 16px;
+}
+
+.illustration-v4 .thumb-product-price.line-through {
+	color: #c9253c;
+	text-decoration: line-through;
+}
+
+.illustration-v4 .thumb-product-purchase {
+	color: #ccc;
+	float: right;
+	margin-top: 3px;
+}
+
+.illustration-v4 .thumb-product-purchase a {
+	color: #8bdccd;
+}
+
+.illustration-v4 .thumb-product-purchase i {
+	top: 1px;
+	font-size: 16px;
+	position: relative;
+}
+
+.illustration-v4 .thumb-product-purchase a:hover {
+	color: #18ba9b;
+	text-decoration: none;
+}
+
+/**/
+/* error state */
+/**/
+.sky-form .state-error input,
+.sky-form .state-error select,
+.sky-form .state-error select + i,
+.sky-form .state-error textarea,
+.sky-form .radio.state-error i,
+.sky-form .checkbox.state-error i,
+.sky-form .toggle.state-error i,
+.sky-form .toggle.state-error input:checked + i {
+	background: #fff0f0;
+}
+.sky-form .state-error + em {
+	display: block;
+	margin-top: 6px;
+	padding: 0 1px;
+	font-style: normal;
+	font-size: 11px;
+	line-height: 15px;
+	color: #ee9393;
+}
+.sky-form .rating.state-error + em {
+	margin-top: -4px;
+	margin-bottom: 4px;
+}
+
+
+/**/
+/* success state */
+/**/
+.sky-form .state-success input,
+.sky-form .state-success select,
+.sky-form .state-success select + i,
+.sky-form .state-success textarea,
+.sky-form .radio.state-success i,
+.sky-form .checkbox.state-success i,
+.sky-form .toggle.state-success i,
+.sky-form .toggle.state-success input:checked + i {
+	background: #f0fff0;
+}
+.sky-form .state-success + em {
+	display: block;
+	margin-top: 6px;
+	padding: 0 1px;
+	font-style: normal;
+	font-size: 11px;
+	line-height: 15px;
+	color: #ee9393;
+}
+.sky-form .note-success {
+	color: #6fb679;
+}

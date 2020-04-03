@@ -1,0 +1,60 @@
+==== Header ====
+Logo 60x60px, 130x130px
+Logo favicon.ico
+================
+
+
+==== Inicio ====
+Instagram
+
+Texto
+= Presentación
+= Misión
+= Visión
+================
+
+
+==== Footer ====
+Texto
+= Párrafo 1: Que somos
+= Párrafo 2: Que estamos dispuestos a hacer
+================
+
+
+==== quienes Somos ====
+Texto
+= Cómo son electos los miembros?
+
+= integrantes =
+nombre completo
+puesto
+descripcion
+facebook
+mail
+twitter
+======================
+
+=== info de contacto ===
+correo 
+email
+direccion
+telefono
+instagram
+facebook
+========================
+
+== articulos ===
+foto
+nombre
+descripcion corta
+link de encargo
+precio
+=================
+
+== servicios ==
+fotos de horarios
+fotos de consulta
+fotos asistentes, nombre, contacto
+==================
+
+
